@@ -83,7 +83,7 @@
     <name>ConnectPage</name>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrt+W</translation>
+        <translation>Ctrt+W</translation>
     </message>
     <message>
         <source>Alt+O</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+W</source>
@@ -102,15 +102,15 @@
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paso 1: Seleccione la fuente de información</translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation></translation>
+        <translation>fuentes de información</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Abrir archivo de información</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
